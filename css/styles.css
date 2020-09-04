@@ -63,15 +63,17 @@ h1.heading{
 }
 .hill{
   margin:10px;
-  width:100%
+  width:50%;
 }
 .one{
+  width:15%;
   position:absolute;
   top:50px;
   right:200px;
   z-index: -1;
 }
 .two{
+  width:15%;
   position:absolute;
   top:250px;
   left:200px;
